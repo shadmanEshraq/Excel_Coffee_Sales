@@ -15,32 +15,37 @@
 <!-- 📣 Excel Protfolio Project 02 : Coffee Sales Dashboard -->
 
 ## 📝 Table of Contents
-+ [The Story Behind/ Problem Statement](#a_0_TSB)
-+ [Dashboard Summary ](#a_1_DS) 
-+ [Tools Used](#a_2_built_using)
-+ [Acknowledgments](#a_3_acknowledgements)
-+ [License](#a_4_license)
++ [Problem Statement](#a_1_PS)
++ [Dashboard Summary ](#a_2_DS) 
++ [Tools Used](#a_3_BU)
++ [Acknowledgments](#a_4_ACK)
++ [License](#a_5_LIC)
 
-## 📝 The Story Behind / Problem Statement  <a name = "a_0_TSB"></a>
+## 📝 Problem Statement  <a name = "a_1_PS"></a>
 
 <p align="justified"> 
-A Coffee bean seller has sales data for the last four years. It sells four types of coffee, each available in three different roast types in four different package sizes. The seller also offers loyalty cards to the customers. Now, the seller wants to create a dashboard to generate business insights.
+
+A coffee bean vendor, in business for the past four years, sells four types of coffee beans to a diverse customer base across several countries. Each variety is available in three roast types and four package sizes, with a loyalty card program offered to customers. The vendor now aims to develop a dashboard to generate valuable business insights from this data.
+
 </p>
 
-## 📊 Dashboard Summary  <a name = "a_1_DS"></a>
+## 📊 Dashboard Summary  <a name = "a_2_DS"></a>
 
 <p align="justified"> 
- Filtering the dataset by Timeline/ Roast Type/ Size of Coffee Bean Package/ Loyalty Card of the Customer, the dash provides the following insights - 
 
-- Monthwise view of sales amount for each coffee type.  
-- Total sales amount by country.
-- Top 5 customers.
+By filtering the dataset based on timeline, roast type, package size, and customer loyalty card status, the dashboard provides the following insights:
+
+- A Year/Quarter/Month/Day wise view of sales revenue for each coffee bean, roast type, and package size.
+- The total sales revenue by country.
+- The top five customers based on sales amount.
+- A breakdown of sales by customer loyalty card status.
+
 </p>
 
 ![Add Image](/Images/Coffee_dashboard_screenshot.PNG)  
 
 
-The live dashboard is [here](https://1drv.ms/x/c/e55cdfcc55156b5b/IQSpIZ0u8UO9RLvck4EkOAgwATQUY3unUBPywWH0Zd3gy-o)
+The live dashboard is [here](https://1drv.ms/x/c/e55cdfcc55156b5b/IQQbBi-lSxeETY0qZtiGoJO0AYyWPmubHpWYQFUi_psvdu0)
 
 ### 🔥 Skills Acquired:
 
@@ -50,18 +55,18 @@ The live dashboard is [here](https://1drv.ms/x/c/e55cdfcc55156b5b/IQSpIZ0u8UO9RL
 
 ➡️ Pivot Table/ Pivot Chart
 
-## ⛏️ Tools Used  <a name = "a_2_built_using"></a>
+## ⛏️ Tools Used  <a name = "a_3_BU"></a>
 
 <p align="justified"> 
 ✔ MS Excel (Data Source, Data Cleaning, Visualization)
 </p>
 
-## 🎉 Acknowledgments  <a name = "a_3_acknowledgements"></a>
+## 🎉 Acknowledgments  <a name = "a_4_ACK"></a>
 
 This [nice tutorial](https://www.youtube.com/watch?v=m13o5aqeCbM) by Mo Chen.
 
 
-## License <a name = "a_4_license"></a> 
+## License <a name = "a_5_LIC"></a> 
 
 [MIT](https://choosealicense.com/licenses/mit/).
 
